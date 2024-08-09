@@ -4,7 +4,7 @@
 
 const config = {
   // Main Application URL
-  websiteUrl: "http://iba.rf.gd",
+  websiteUrl: "http://idriss.iba.rf.gd",
 
   // Application Name
   appName: "WebToDesk",
